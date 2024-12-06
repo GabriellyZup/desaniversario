@@ -16,5 +16,8 @@ public class Main {
         int yearsold = 2025 - bornIn;
         System.out.println("Calculando.......");
 
+        System.out.println("Olá, " + name + "!");
+        System.out.println("Em 2025, você completará " +yearsold+ " anos.");
+
         }
     }
