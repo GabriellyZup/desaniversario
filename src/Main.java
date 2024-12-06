@@ -12,5 +12,9 @@ public class Main {
         int bornIn = scanner.nextInt();
 
         scanner.close();
+
+        int yearsold = 2025 - bornIn;
+        System.out.println("Calculando.......");
+
         }
     }
